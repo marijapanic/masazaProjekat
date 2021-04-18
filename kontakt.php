@@ -64,7 +64,7 @@
 	<script src="js/hoverIntent.js"></script>
 	<script src="js/superfish.js"></script>
 	<script src="js/main.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJbnobv1YuNxEht41EzfiLn3WRHcQCtaI"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=PUT_YOUR_KEY"></script>
   <script>
     var get_latitude = $('#google-map').data('latitude');
 	 var get_longitude = $('#google-map').data('longitude');
